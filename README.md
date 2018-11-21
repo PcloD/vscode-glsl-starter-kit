@@ -41,3 +41,7 @@ Use of depthy, minimal functions plus mouse action.
 `depthy_original_modified.glsl`:
 
 Use of depthy, minimal modification to adapt this extension.
+
+## Usage
+
+Write your shader code, and simply press `command+shift+p` to open command palette and choose `Show glslCanvas`.
