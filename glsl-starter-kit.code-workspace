@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+    ],
+    "settings": {
+        "glsl-canvas.textures": {
+            "0": "file:///Users/sharefun/Sources/vscode-glsl-starter-kit/images/color1.jpg",
+            "1": "file:///Users/sharefun/Sources/vscode-glsl-starter-kit/images/depth1.jpg",
+            "2": "file:///Users/sharefun/Sources/vscode-glsl-starter-kit/images/color4.jpg",
+            "3": "file:///Users/sharefun/Sources/vscode-glsl-starter-kit/images/depth4.jpg",
+            "4": "file:///Users/sharefun/Sources/vscode-glsl-starter-kit/images/color6.jpg",
+            "5": "file:///Users/sharefun/Sources/vscode-glsl-starter-kit/images/depth6.jpg",
+        },
+    }
+}
