@@ -10,7 +10,7 @@
 
 This project provides a workspace file for VS Code. Simply click `File > Open Workspace...` and choose `glsl-starter-kit.code-workspace` will do.
 
-This file contains the path to the images, which are used as textures in your shader. Correct the path before and restart VS Code to update environment varaibles.
+This file contains the path to the images, which are used as textures in your shader. Correct the path and restart VS Code to update environment varaibles.
 
 In "glsl-canvas.textures", the key "0" will map to `uniform sampler2D u_texture_0;`, the key "1" will map to `uniform sampler2D u_texture_1;` etc.
 
