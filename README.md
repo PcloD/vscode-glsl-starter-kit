@@ -19,3 +19,25 @@ In "glsl-canvas.textures", the key "0" will map to `uniform sampler2D u_texture_
 Since setting uniforms in workspace file requires reload VS Code, it's would be more convenient to transform all your uniforms to global variables in shader.
 
 The WebGL version seems to be 2.0, some handy method in GL3 might not be available.
+
+## Content
+
+`0_basic_setup.glsl`:
+
+The use of `u_resolution` and `uv`.
+
+`1_mouse_action.glsl`:
+
+The use of `u_mouse` to change image by mouse action.
+
+`2_using_textuers.glsl`:
+
+The use of sampler.
+
+`depthy-simplified.glsl`:
+
+Use of depthy, minimal functions plus mouse action.
+
+`depthy_original_modified.glsl`:
+
+Use of depthy, minimal modification to adapt this extension.
